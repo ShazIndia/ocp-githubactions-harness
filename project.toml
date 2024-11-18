@@ -1,0 +1,6 @@
+[project]
+id = "python-oops-app"
+name = "Python OOP Application"
+
+[[build.buildpacks]]
+id = "paketo-buildpacks/python"
